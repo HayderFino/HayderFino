@@ -128,11 +128,11 @@ From **data acquisition → processing → modeling → visualization → deploy
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HayderFino\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=HayderFino&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HayderFino\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HayderFino&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-![Streak](https://streak-stats.demolab.com/?user=HayderFino\&theme=tokyonight\&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=HayderFino&theme=tokyonight&hide_border=true" />
 
 </div>
 
