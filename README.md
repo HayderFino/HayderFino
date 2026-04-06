@@ -25,27 +25,57 @@ From **data acquisition → processing → modeling → visualization → deploy
 
 # 🧩 Tech Stack
 
-## 💻 Programming & Development
+## 💻 Programming Languages
 
-![Tech](https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap)
+![Languages](https://skillicons.dev/icons?i=python,java,javascript)
+
+---
+
+## 🧱 Backend & Web Development
+
+![Backend](https://skillicons.dev/icons?i=nodejs,html,css,bootstrap)
+
+---
 
 ## 🗄️ Databases & Data Platforms
 
-![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase)
+![Databases](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase)
+
+---
 
 ## 📊 Data Science & Machine Learning
 
-![DS](https://skillicons.dev/icons?i=python,numpy,pandas,opencv,matplotlib,seaborn)
+![DataScience](https://skillicons.dev/icons?i=python)
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+**Libraries & Tools:**
+
+* NumPy
+* Pandas
+* OpenCV
+* Matplotlib
+* Seaborn
+
+---
 
 ## ⚙️ DevOps & Tools
 
-![DevOps](https://skillicons.dev/icons?i=git,github,maven,npm,pnpm,docker,linux,anaconda)
+![DevOps](https://skillicons.dev/icons?i=git,github,docker,linux,npm,pnpm,maven,anaconda)
+
+---
 
 ## 🔌 IoT & Embedded Systems
 
 ![IoT](https://skillicons.dev/icons?i=arduino,raspberrypi)
+
+---
+
+## 🧠 Data Engineering Focus
+
+* ETL Pipelines
+* Data Modeling
+* Batch & Streaming Processing
+* API Integration
+* Data Warehousing (Learning)
 
 ---
 
@@ -68,19 +98,19 @@ From **data acquisition → processing → modeling → visualization → deploy
 
 * Access control
 * Activity logging
-* Secure management workflows
+* Secure workflows
 
 ## 🐄 **Hypocalcemia Monitoring — Smart Agriculture IoT**
 
 * ESP32 sensors
-* Node-RED real-time dashboards
-* Alert system for livestock monitoring
+* Node-RED dashboards
+* Real-time alerts
 
 ## 😴 **Driver Fatigue Detection**
 
-* Computer Vision with MediaPipe + OpenCV
-* Microsleep and yawn detection
-* Real-time inference pipeline
+* Computer Vision (MediaPipe + OpenCV)
+* Microsleep & yawn detection
+* Real-time inference
 
 ---
 
@@ -111,28 +141,26 @@ From **data acquisition → processing → modeling → visualization → deploy
 # 📚 Currently Learning
 
 * Advanced Machine Learning & Feature Engineering
-* Data Engineering (Batch + Streaming Processing)
-* Networking Infrastructure & Protocol Design
-* Computer Vision applied to Smart Environments
+* Data Engineering (Batch + Streaming)
+* Networking Infrastructure & Protocols
+* Computer Vision for Smart Environments
 * Software Architecture (C4 Model, Clean Architecture)
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Build **production-ready ML systems**
-✅ Design **scalable data platforms**
-✅ Contribute to **open-source projects**
-✅ Develop **AI + IoT real-world solutions**
-✅ Obtain first role as **Data / AI Engineer**
+* Build **production-ready ML systems**
+* Design **scalable data platforms**
+* Contribute to **open-source projects**
+* Develop **AI + IoT real-world solutions**
+* Get first role as **Data / AI Engineer**
 
 ---
 
 # 🤝 Let's Connect
 
 📌 GitHub: https://github.com/HayderFino
-📌 LinkedIn: *(add your link here)*
-📌 Portfolio: *(coming soon)*
 
 ---
 
