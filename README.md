@@ -128,9 +128,8 @@ From **data acquisition → processing → modeling → visualization → deploy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HayderFino&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HayderFino&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <img src="https://streak-stats.demolab.com?user=HayderFino&theme=tokyonight&hide_border=true" />
 
