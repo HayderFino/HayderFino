@@ -486,33 +486,35 @@ My objective is to become an engineer capable of understanding the **complete li
 # 📊 GitHub Analytics
 
 <div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HayderFino&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HayderFino&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=HayderFino&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
 # 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge\&logo=php\&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge\&logo=laravel\&logoColor=FF2D20)
-![Vue](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge\&logo=angular\&logoColor=DD0031)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge\&logo=node.js\&logoColor=339933)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge\&logo=postgresql\&logoColor=336791)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge\&logo=arduino\&logoColor=00979D)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge\&logo=linux\&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Vue](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00979D)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 ---
 
