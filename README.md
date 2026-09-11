@@ -486,13 +486,11 @@ My objective is to become an engineer capable of understanding the **complete li
 # 📊 GitHub Analytics
 
 <div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HayderFino&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HayderFino\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HayderFino&layout=compact&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HayderFino\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=HayderFino\&theme=tokyonight\&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=HayderFino&theme=tokyonight&hide_border=true)
 </div>
 
 ---
